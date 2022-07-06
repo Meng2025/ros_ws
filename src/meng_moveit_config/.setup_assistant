@@ -1,0 +1,11 @@
+moveit_setup_assistant_config:
+  URDF:
+    package: meng_arm_description
+    relative_path: urdf/meng_arm_description.urdf
+    xacro_args: ""
+  SRDF:
+    relative_path: config/meng_arm_description.srdf
+  CONFIG:
+    author_name: Meng
+    author_email: m@njust.edu.cn
+    generated_timestamp: 1655091318
