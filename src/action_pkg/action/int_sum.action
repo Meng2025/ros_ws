@@ -1,0 +1,10 @@
+# 计算上限
+int32 max
+---
+# 最终结果
+int32 result
+---
+# 计算进度
+float64 progress
+
+
